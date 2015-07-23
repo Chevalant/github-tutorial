@@ -6,4 +6,4 @@ def test_multiply():
 	"""
 	assert mp.multiply(5,5) == 25
 	assert mp.multiply(3,0) == 0
-	
+	assert mp.multiply(10,1) == 10
